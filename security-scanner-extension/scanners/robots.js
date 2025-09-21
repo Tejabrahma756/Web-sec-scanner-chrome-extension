@@ -1,0 +1,1 @@
+// robots logic is embedded in content script executed from popup.js
